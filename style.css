@@ -2,7 +2,7 @@
 
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Lato|Lobster+Two');
@@ -18,7 +18,7 @@ header {
 	margin: 0; height: 150px; position: relative;
 	background: #666764 url(images/banner.jpg) no-repeat 0 0;
 	box-shadow: 0px 2px 10px rgba(0,0,0,.3);
-	border-bottom: 1px solid #aaa; 
+	border-bottom: 1px solid #aaa;
 }
 header h1 {
 	font-family: 'Lobster Two', cursive, sans-serif;
@@ -31,7 +31,7 @@ header h1 {
 main { margin: 35px }
 main::after { content: ''; display: block; clear: both; }
 
-
+article { width: 300px; float: left; }
 
 
 
